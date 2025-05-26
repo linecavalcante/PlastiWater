@@ -28,3 +28,14 @@ Projeto fictício de IoT para detecção de microplásticos usando ESP32, sensor
 [Assista aqui](https://youtu.be/SEU-LINK-AQUI)
 
 ## Estrutura
+├── src/
+│ └── main.cpp # Código principal do ESP32
+├── platformio.ini # Configuração do projeto PlatformIO
+└── README.md # Documentação do projeto
+
+
+## Referências
+- [MQTT.org – Especificação do protocolo](http://mqtt.org/)
+- [DFRobot – Sensor de Turbidez SEN0189](https://wiki.dfrobot.com/Turbidity_sensor_SKU_SEN0189)
+- [Espressif – Documentação técnica do ESP32](https://www.espressif.com/en/products/socs/esp32/resources)
+
